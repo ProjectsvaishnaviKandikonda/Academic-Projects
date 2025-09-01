@@ -1,5 +1,5 @@
-AI Ethics Auditing Project: Enterprise Workforce Optimization Systems
-- This project conducted a comprehensive ethical audit of an AI-driven platform used to optimize workforce management and budget allocation. The goal was to uncover hidden algorithmic bias and ensure compliance with major ethical and regulatory standards.
+**AI Ethics Auditing Project: Enterprise Workforce Optimization Systems**
+  This project conducted a comprehensive ethical audit of an AI-driven platform used to optimize workforce management and budget allocation. The goal was to uncover hidden algorithmic bias and ensure compliance with major ethical and regulatory standards.
 
 The Challenge
 AI systems in enterprise are often "black boxes" that make critical decisions affecting employee careers, project assignments, and professional growth. Without proper oversight, these systems can perpetuate and amplify existing biases, creating significant ethical, legal, and reputational risks for a company.
