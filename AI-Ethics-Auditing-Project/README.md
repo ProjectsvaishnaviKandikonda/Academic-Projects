@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------------------
-**Project 1. AI Ethics Auditing Project: Enterprise Workforce Optimization Systems**
+**Indiviual Project - AI Ethics Auditing Project: Enterprise Workforce Optimization Systems**
 ---------------------------------------------------------------------------------------
   This project conducted a comprehensive ethical audit of an AI-driven platform used to optimize workforce management and budget allocation. The goal was to uncover hidden algorithmic bias and ensure compliance with major ethical and regulatory standards.
   
@@ -30,7 +30,7 @@ The audit identified several critical issues that pose significant business risk
 - Technical Communication: Documenting complex findings in a clear, actionable format.
 
 -----------------------------------------------------------------------------
-**Project 2. AI and Fake Reviews: Amazon's Struggle Against Bots**
+** Group Presentation - AI and Fake Reviews: Amazon's Struggle Against Bots**
 -----------------------------------------------------------------------------
 
 This project analyzes the escalating "technological arms race" between AI-generated fake reviews and the detection systems on e-commerce platforms like Amazon. It presents a comprehensive overview of the problem's ethical and economic impacts and proposes a strategic, multi-layered solution.
