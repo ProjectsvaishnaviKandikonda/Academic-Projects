@@ -4,7 +4,7 @@ Academic projects - UCD Sep 2024 - Sep 2025
 2024/25 Summer - Projects
 
 **AI Ethics Auditing Projects:**
-- Enterprise Workforce Optimization Systems- Evaluating Ethical Risks in AI-Driven Budget and People Management Tools. 📄 [PDF Report](files/report.pdf)
+- Enterprise Workforce Optimization Systems- Evaluating Ethical Risks in AI-Driven Budget and People Management Tools. 📄 [PDF Report](files/AI_Ethics_Auditing_Project.pdf)
 
 - AI and Fake Reviews: Amazon's Struggle Against Bots 📊 [Presentation PPT](files/AI & Fake Reviews Amazons struggle against Bot.pptx)
 
