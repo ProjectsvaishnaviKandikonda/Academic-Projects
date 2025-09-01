@@ -29,6 +29,9 @@ The audit identified several critical issues that pose significant business risk
 - Data Analysis & Simulation: Performing quantitative analysis and creating realistic synthetic datasets.
 - Technical Communication: Documenting complex findings in a clear, actionable format.
 
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
 **Project 2. AI and Fake Reviews: Amazon's Struggle Against Bots**
 
 This project analyzes the escalating "technological arms race" between AI-generated fake reviews and the detection systems on e-commerce platforms like Amazon. It presents a comprehensive overview of the problem's ethical and economic impacts and proposes a strategic, multi-layered solution.
