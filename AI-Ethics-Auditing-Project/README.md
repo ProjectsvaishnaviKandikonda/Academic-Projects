@@ -1,4 +1,4 @@
-** Project 1. AI Ethics Auditing Project: Enterprise Workforce Optimization Systems**
+**Project 1. AI Ethics Auditing Project: Enterprise Workforce Optimization Systems**
 
 - This project conducted a comprehensive ethical audit of an AI-driven platform used to optimize workforce management and budget allocation
 - The goal was to uncover hidden algorithmic bias and ensure compliance with major ethical and regulatory standards.
