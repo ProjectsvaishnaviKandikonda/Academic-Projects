@@ -1,4 +1,4 @@
-**AI Ethics Auditing Project: Enterprise Workforce Optimization Systems**
+** Project 1. AI Ethics Auditing Project: Enterprise Workforce Optimization Systems**
 
 - This project conducted a comprehensive ethical audit of an AI-driven platform used to optimize workforce management and budget allocation
 - The goal was to uncover hidden algorithmic bias and ensure compliance with major ethical and regulatory standards.
@@ -28,3 +28,35 @@ The audit identified several critical issues that pose significant business risk
 - Regulatory Compliance: Interpreting and applying key regulations like GDPR and the EU AI Act.
 - Data Analysis & Simulation: Performing quantitative analysis and creating realistic synthetic datasets.
 - Technical Communication: Documenting complex findings in a clear, actionable format.
+
+**Project 2. AI and Fake Reviews: Amazon's Struggle Against Bots**
+
+This project analyzes the escalating "technological arms race" between AI-generated fake reviews and the detection systems on e-commerce platforms like Amazon. It presents a comprehensive overview of the problem's ethical and economic impacts and proposes a strategic, multi-layered solution.
+
+**The Problem**
+
+AI-generated reviews are becoming increasingly sophisticated, making them difficult for current detection systems to identify. This leads to:
+
+- Erosion of Consumer Trust: Consumers are increasingly unable to rely on online reviews to make purchasing decisions.
+- Unfair Competitive Advantage: Products with fake, AI-generated reviews gain an unfair boost, harming honest sellers and misleading consumers.
+- Economic Harm: The proliferation of fake reviews leads to reduced sales for legitimate businesses and contributes to a less trustworthy online marketplace.
+
+**Analysis of Existing Systems**
+
+My analysis of Amazon’s current system reveals several critical limitations:
+- Ineffective against AI-Generated Reviews: The system relies on traditional machine learning and behavioral signals that are easily bypassed by modern AI bots.
+- No Real-time Network Graph Analysis: There is a lack of real-time analysis to identify coordinated bot networks and their relationships, allowing them to operate at scale.
+- Limited Transparency: The system lacks clear explainability, making it difficult for human moderators to understand why a review was flagged, which slows down the moderation process.
+
+**My Proposed Solution: A Multi-Layered Approach**
+
+- I designed a robust, adaptive detection system to counter AI-generated reviews more effectively. The system is comprised of three key layers:
+- Behavioral Trust Graphs: An initial layer that uses a network graph to identify coordinated bot activity in real time, stopping it before it impacts reviews.
+- LLM-Adaptive Detection: A core layer that uses Large Language Models to analyze the semantic patterns of reviews, identifying subtle nuances of AI-generated content.
+- Explainable AI for Moderators: A final layer that provides clear, human-readable explanations for why a review was flagged, allowing for faster and more consistent manual audits.
+
+**Skills Demonstrated**
+- Strategic Analysis: Identifying and deconstructing a complex, real-world business problem.
+- Problem-Solving: Developing a multi-faceted, technical solution to address core system limitations.
+- Ethical & Regulatory Insight: Analyzing the ethical implications of AI misuse and understanding relevant legal frameworks like the FTC Act and EU Digital Services Act.
+- Data-Driven Research: Citing industry statistics and research to support findings and proposed solutions.
