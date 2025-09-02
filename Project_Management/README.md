@@ -1,3 +1,5 @@
+This repository presents a collection of my academic projects, demonstrating my expertise in various facets of project management, from strategic planning and risk management to lifecycle methodologies and innovation.
+
 ------------------------------------------------------------------
 **Project Management Plan: The RateMyLandlord Application**
 ------------------------------------------------------------------
