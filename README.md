@@ -22,5 +22,5 @@ Academic projects - UCD Sep 2024 - Sep 2025
 **2024/25 Autumn - Projects**
 
 **User Centered Design ( UXD )**
-  - Sustainify: Food Waste Management & Zero Hunger App 📄 [Group PDF Report](User_Centered_Design/Sustainify:Food_Waste_ Management_Zero_Hunger_App.pdf) 📄 [Poster](User_Centered_Design/Poster_Sustainify.pdf)
+  - Sustainify: Food Waste Management & Zero Hunger App [Group PDF Report](User_Centered_Design/Sustainify.pdf), 📄 [Poster](User_Centered_Design/Poster_Sustainify.pdf)
   - Critique on Interface Metaphors 📄 [PDF Report](User_Centered_Design/Critique_on_Interface_Metaphors.pdf)
