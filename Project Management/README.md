@@ -1,17 +1,35 @@
-# Academic-Projects
-Academic projects - UCD Sep 2024 - Sep 2025
+------------------------------------------------------------------
+**Project Management Plan: The RateMyLandlord Application**
+------------------------------------------------------------------
+This project showcases a comprehensive Project Management Plan (PMP) for "RateMyLandlord," a web application designed to empower tenants. This work demonstrates my ability to plan and manage a complex software project from a business and technical perspective.
 
-**2024/25 Summer - Projects**
+**My Key Contributions:**
 
-**AI Ethics Auditing Projects:**
-- Enterprise Workforce Optimization Systems- Evaluating Ethical Risks in AI-Driven Budget and People Management Tools. 📄 [PDF Report](AI-Ethics-Auditing-Project/AI_Ethics_Auditing_Project.pdf)
+- Risk Management: I led the development of a detailed Risk Management Plan, identifying potential threats (e.g., legal challenges, security vulnerabilities) and outlining strategies for proactive mitigation.
+- Quality Management: I was responsible for the Quality Management Plan, defining the standards, metrics, and testing strategy to ensure the application's reliability and user satisfaction.
+- Work Breakdown Structure (WBS): I helped create the WBS, which systematically broke down the entire project into manageable tasks and deliverables, showcasing my skills in organizational planning.
 
-- AI and Fake Reviews: Amazon's Struggle Against Bots 📊 [Group Presentation](AI-Ethics-Auditing-Project/AI_Fake_Reviews_Amazons_struggle_against_Bot.pdf)
+------------------------------------------------------------------
+**SDLC Strategy: Hospital Patient Management System (HPMS)**
+------------------------------------------------------------------
+This project focused on selecting the most effective Software Development Life Cycle (SDLC) approach for a large-scale Hospital Patient Management System.
 
-**Machine Learning Project :  HR_Employee_Attrition_Prediction**
-- This dataset is ideal for exploring employee retention patterns and building predictive models for workforce management.
+**My Strategic Proposal:**
 
-**2024/25 Spring - Projects**
+- I proposed a hybrid Agile-RUP approach, arguing that it strikes the ideal balance between the flexibility of Agile and the structured, risk-mitigating framework of RUP.
+- The approach was designed to support strict regulatory compliance (e.g., HIPAA, GDPR) through structured documentation and use-case-driven development, which is critical for healthcare systems.
+- By combining these methodologies, the plan ensured frequent stakeholder collaboration and managed, phased development, reducing risk and allowing for continuous quality assurance.
 
-**Project Management**
-  - Project Management Plan: The RateMyLandlord Application
+------------------------------------------------------------------
+**Innovative Project Planning: UCD Library Redesign**
+------------------------------------------------------------------
+
+This project utilized divergent and convergent thinking to develop a strategic proposal for redesigning the UCD Library's workspaces. This demonstrates my ability to apply creative and structured thinking to solve complex problems.
+
+**My Approach:**
+
+- I used the SCAMPER technique to generate a range of innovative ideas, such as replacing static computer labs with mobile tablets and merging "tech" and "talk" zones to foster a more collaborative learning environment.
+
+- The project prioritized a user-centered design, focusing on solutions that directly addressed student needs for greater collaboration, modularity, and seamless access to technology.
+
+- I proposed tangible, tech-enabled solutions, including modular desks with integrated projectors and charging plugs, which showcased my ability to think both creatively and practically.
