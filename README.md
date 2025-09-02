@@ -14,6 +14,6 @@ Academic projects - UCD Sep 2024 - Sep 2025
 **2024/25 Spring - Projects**
 
 **Project Management**
-  - Project Management Plan: The RateMyLandlord Application 📊 [Group PDF Report](Project_Management/Project_Management/Project_Management_Plan-RateMyLandlord.pdf.pdf)
+  - Project Management Plan: The RateMyLandlord Application 📊 [Group PDF Report](Project_Management/Project_Management/Project_Management_Plan-RateMyLandlord.pdf)
   - SDLC Strategy: Hospital Patient Management System (HPMS) 📊 [PDF Report](Project_Management/Project_Management/SDLC_Approach_for_Effective_HPMS.pdf)
-  - Innovative Project Planning: UCD Library Redesign 📊 [PDF Report](Project_Management/Project_Management/Project_Planning:UCD_Library_Redesign.pdf.pdf)
+  - Innovative Project Planning: UCD Library Redesign 📊 [PDF Report](Project_Management/Project_Management/Project_Planning:UCD_Library_Redesign.pdf)
