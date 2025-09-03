@@ -1,36 +1,60 @@
-This repository showcases a selection of my projects in User-Centered Design (UXD), demonstrating my expertise in the end-to-end design process, from foundational research to critical analysis of design principles.
-------------------------------------------------------------------
-**Sustainify: Food Waste Management & Zero Hunger App**
-------------------------------------------------------------------
-This project was a collaborative effort to design a mobile application, Sustainify, aimed at combating food waste and hunger. This project demonstrates my ability to apply a user-centered design process to develop a practical, high-fidelity solution.
+*Global Cyber Incident Data Visualization*
+-----------------------------------------------------------------------------
 
-**My Role & Contributions**
+This project analyzes the EurepoC Global Cyber Incident dataset to provide insights into the evolving cyber threat landscape.
 
-I was a key member of the design team, contributing to the full project lifecycle:
+The analysis focuses on identifying trends such as:
 
-- Requirement Gathering: I participated in user interviews and online surveys to understand user needs related to food waste and donation.
+- The top 10 most targeted countries and the top 10 countries from which attacks originate.
 
-- Low-Fidelity Design: I was involved in creating the initial paper sketches and wireframes that formed the blueprint for the application's interface.
+- The most common incident types.
 
-- High-Fidelity Design: I contributed to the final visual design, which included the main dashboard, food request and donation pages, and feedback screens, ensuring a clean and intuitive user experience.
+- The most targeted sectors (receiver categories).
 
-**Key Features of Sustainify**
+- The primary threat actor types (initiator categories).
+- 
+The impact scores of different incident types.
 
-- Smart Reminders: Notifications to track food expiry dates.
+*Conclusion*
 
-- Donation Hubs: Easy-to-use features for donating surplus food to nearby charities.
+The analysis concludes that Data Theft is a globally widespread threat, while Ransomware is more region-specific. There has been a steady rise in cyber incidents over time, with notable spikes in 2015 and 2020. The box plot analysis of impact scores highlights that Disruption incidents show the greatest variability. The findings emphasize the need for region-specific mitigation strategies and the importance of prioritizing responses based on impact.
 
-- User-Centric Interface: A clean, simple interface with clear calls-to-action to facilitate daily use.
+*Technologies Used*
 
-------------------------------------------------------------------
-**Critique on Interface Metaphors**
-------------------------------------------------------------------
-This project demonstrates my ability to critically analyze foundational principles of Human-Computer Interaction (HCI). My critique focuses on the strengths and ethical considerations of using interface metaphors in design.
+The main technologies used are Python and the following libraries:
 
-**Key Insights**
+- pandas for data manipulation and analysis.
 
-- Bridging Human and Machine: I explored how metaphors simplify user interaction by making digital actions familiar and intuitive.
+- plotly and matplotlib for creating interactive and static visualizations.
 
-- Ethical Considerations: The critique highlights the risks of using anthropomorphic elements that can mislead users into perceiving technology as human-like.
+- seaborn for statistical data visualization.
 
-- Areas for Further Discussion: I proposed further research into the limitations of metaphors in representing AI-driven interfaces and the impact of cultural differences on their effectiveness.
+-----------------------------------------------------------------------------
+*Threat Intelligence Dashboard*
+-----------------------------------------------------------------------------
+
+This project, which includes eda_threat_intel.ipynb and optimized_dashboard.py, is a cyber threat intelligence dashboard. It processes data from NVD CVE and MITRE ATT&CK datasets, cleans it, and presents it in an interactive Streamlit application. The dashboard visualizes key threat intelligence metrics, including CVEs, CVSS scores, and mapped MITRE techniques.
+
+The analysis and dashboard focus on:
+
+- CVEs, their CVSS scores, and severity ratings.
+
+- The percentage of CVEs mapped to MITRE techniques.
+
+- The mapping of CVEs to specific MITRE techniques and tactics.
+
+- The distribution of vulnerabilities by severity and year.
+
+*Conclusion*
+
+The exploratory data analysis (EDA) in eda_threat_intel.ipynb provides an initial insight that only a small percentage (around 14.82%) of CVEs have a mapped MITRE technique. The optimized_dashboard.py script further visualizes this data, allowing users to draw conclusions about the most prevalent vulnerabilities and attack techniques based on filters for year and severity.
+
+*Technologies Used*
+
+The main technologies used are Python and the following libraries:
+
+- pandas for data cleaning and preparation.
+
+- streamlit for creating and hosting the interactive web dashboard.
+
+- plotly.express for building the visualizations within the dashboard.
