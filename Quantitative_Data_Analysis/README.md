@@ -1,36 +1,40 @@
-This repository showcases a selection of my projects in User-Centered Design (UXD), demonstrating my expertise in the end-to-end design process, from foundational research to critical analysis of design principles.
-------------------------------------------------------------------
-**Sustainify: Food Waste Management & Zero Hunger App**
-------------------------------------------------------------------
-This project was a collaborative effort to design a mobile application, Sustainify, aimed at combating food waste and hunger. This project demonstrates my ability to apply a user-centered design process to develop a practical, high-fidelity solution.
+Exploring the Relationship Between Usability, Workload, and Cognitive Performance
 
-**My Role & Contributions**
+**Overview**
 
-I was a key member of the design team, contributing to the full project lifecycle:
+This repository contains two independent quantitative data analysis projects conducted in R. The first project investigates the relationship between system usability (SUS) and perceived task load (RTLX) in voice user interfaces. The second project analyzes the impact of auditory versus visual interruptions on Tetris gameplay performance.
 
-- Requirement Gathering: I participated in user interviews and online surveys to understand user needs related to food waste and donation.
+--------------------------------------------------------------------------------
+Project 1: Usability and Workload
+--------------------------------------------------------------------------------
+**Objective:** To explore the correlation between System Usability Scale (SUS) scores and Raw Task Load Index (RTLX) scores to determine if higher usability is associated with lower perceived workload.
 
-- Low-Fidelity Design: I was involved in creating the initial paper sketches and wireframes that formed the blueprint for the application's interface.
+**Hypothesis:** There is a negative correlation between usability and task load; as usability increases, perceived task load decreases.
 
-- High-Fidelity Design: I contributed to the final visual design, which included the main dashboard, food request and donation pages, and feedback screens, ensuring a clean and intuitive user experience.
+**Methodology:**
 
-**Key Features of Sustainify**
+- Data: A dataset of SUS and RTLX scores was used.
+- Analysis: Descriptive statistics were calculated, and a Pearson correlation test was performed.
+- Visualization: A scatter plot was created to visualize the relationship between the two variables.
+- Key Findings: A significant negative correlation (r=−0.673, p<0.001) was found, supporting the hypothesis that higher usability is associated with lower perceived task load.
 
-- Smart Reminders: Notifications to track food expiry dates.
+--------------------------------------------------------------------------------
+Project 2: Interruptions and Gameplay Performance
+--------------------------------------------------------------------------------
+**Objective:** To determine whether auditory or visual interruptions have a greater impact on Tetris gameplay performance.
 
-- Donation Hubs: Easy-to-use features for donating surplus food to nearby charities.
+**Hypothesis:** Auditory interruptions will be less disruptive to gameplay than visual interruptions.
 
-- User-Centric Interface: A clean, simple interface with clear calls-to-action to facilitate daily use.
+**Methodology:**
 
-------------------------------------------------------------------
-**Critique on Interface Metaphors**
-------------------------------------------------------------------
-This project demonstrates my ability to critically analyze foundational principles of Human-Computer Interaction (HCI). My critique focuses on the strengths and ethical considerations of using interface metaphors in design.
+- Data: A dataset of Tetris scores categorized by interruption condition (auditory or visual) was analyzed.
 
-**Key Insights**
+- Analysis: An independent samples t-test was used to compare the mean scores between the two conditions.
 
-- Bridging Human and Machine: I explored how metaphors simplify user interaction by making digital actions familiar and intuitive.
+- Visualization: A histogram was generated to show the distribution of scores for both conditions.
 
-- Ethical Considerations: The critique highlights the risks of using anthropomorphic elements that can mislead users into perceiving technology as human-like.
+- Key Findings: Participants in the auditory interruption condition scored significantly higher (M=67.94) than those in the visual condition (M=46.63), with a significant difference (t(62)=7.46,p<.001).
 
-- Areas for Further Discussion: I proposed further research into the limitations of metaphors in representing AI-driven interfaces and the impact of cultural differences on their effectiveness.
+Repository Contents
+
+Both projects demonstrate my ability to use quantitative methods and statistical software to answer research questions and draw data-driven conclusions.
