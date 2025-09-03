@@ -12,8 +12,8 @@ The analysis focuses on identifying trends such as:
 - The most targeted sectors (receiver categories).
 
 - The primary threat actor types (initiator categories).
-- 
-The impact scores of different incident types.
+
+- The impact scores of different incident types.
 
 *Conclusion*
 
