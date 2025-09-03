@@ -1,36 +1,21 @@
-This repository showcases a selection of my projects in User-Centered Design (UXD), demonstrating my expertise in the end-to-end design process, from foundational research to critical analysis of design principles.
-------------------------------------------------------------------
-**Sustainify: Food Waste Management & Zero Hunger App**
-------------------------------------------------------------------
-This project was a collaborative effort to design a mobile application, Sustainify, aimed at combating food waste and hunger. This project demonstrates my ability to apply a user-centered design process to develop a practical, high-fidelity solution.
+This project investigates Airbnb’s role in Dublin’s tourism and housing market, using datasets from Inside Airbnb. The analysis explores seasonal demand trends, guest satisfaction, investment opportunities, and host behaviour.
 
-**My Role & Contributions**
+When Does Airbnb Demand Spike in Dublin?
 
-I was a key member of the design team, contributing to the full project lifecycle:
+This part of the project focused on analysing the patterns of Airbnb demand across different timeframes. It highlights how tourism, seasonality, and weekly activity affect short-term rental trends.
 
-- Requirement Gathering: I participated in user interviews and online surveys to understand user needs related to food waste and donation.
+My Role & Contributions
 
-- Low-Fidelity Design: I was involved in creating the initial paper sketches and wireframes that formed the blueprint for the application's interface.
+I was responsible for data preparation and statistical analysis, contributing to the following tasks:
 
-- High-Fidelity Design: I contributed to the final visual design, which included the main dashboard, food request and donation pages, and feedback screens, ensuring a clean and intuitive user experience.
+- Data Cleaning: Processed and validated Airbnb review datasets to ensure accuracy.
+- Trend Analysis: Conducted statistical analysis of yearly growth, seasonal peaks, and weekly review activity.
+- Visualisation: Created R-based graphs illustrating demand fluctuations across months, seasons, and neighbourhoods.
+- Debugging & Accuracy: Ensured correctness of data transformations and collaborated with the team to interpret findings.
 
-**Key Features of Sustainify**
+Key Insights
 
-- Smart Reminders: Notifications to track food expiry dates.
-
-- Donation Hubs: Easy-to-use features for donating surplus food to nearby charities.
-
-- User-Centric Interface: A clean, simple interface with clear calls-to-action to facilitate daily use.
-
-------------------------------------------------------------------
-**Critique on Interface Metaphors**
-------------------------------------------------------------------
-This project demonstrates my ability to critically analyze foundational principles of Human-Computer Interaction (HCI). My critique focuses on the strengths and ethical considerations of using interface metaphors in design.
-
-**Key Insights**
-
-- Bridging Human and Machine: I explored how metaphors simplify user interaction by making digital actions familiar and intuitive.
-
-- Ethical Considerations: The critique highlights the risks of using anthropomorphic elements that can mislead users into perceiving technology as human-like.
-
-- Areas for Further Discussion: I proposed further research into the limitations of metaphors in representing AI-driven interfaces and the impact of cultural differences on their effectiveness.
+- Demand peaks during summer (June–August) and December due to tourism and holidays.
+- Fridays and Saturdays show the highest activity, reflecting short-term weekend trips.
+- Year-on-year review growth indicates steady expansion of Dublin’s Airbnb market.
+- Neighbourhood-level patterns highlight hotspots near attractions and transport hubs.
