@@ -1,5 +1,6 @@
 This repository showcases a selection of my projects in User-Centered Design (UXD), demonstrating my expertise in the end-to-end design process, from foundational research to critical analysis of design principles.
-------------------------------------------------------------------
+
+
 **Sustainify: Food Waste Management & Zero Hunger App**
 ------------------------------------------------------------------
 This project was a collaborative effort to design a mobile application, Sustainify, aimed at combating food waste and hunger. This project demonstrates my ability to apply a user-centered design process to develop a practical, high-fidelity solution.

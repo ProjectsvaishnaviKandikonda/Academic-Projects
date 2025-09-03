@@ -1,10 +1,5 @@
-Exploring the Relationship Between Usability, Workload, and Cognitive Performance
-
-**Overview**
-
 This repository contains two independent quantitative data analysis projects conducted in R. The first project investigates the relationship between system usability (SUS) and perceived task load (RTLX) in voice user interfaces. The second project analyzes the impact of auditory versus visual interruptions on Tetris gameplay performance.
 
---------------------------------------------------------------------------------
 Project 1: Usability and Workload
 --------------------------------------------------------------------------------
 **Objective:** To explore the correlation between System Usability Scale (SUS) scores and Raw Task Load Index (RTLX) scores to determine if higher usability is associated with lower perceived workload.

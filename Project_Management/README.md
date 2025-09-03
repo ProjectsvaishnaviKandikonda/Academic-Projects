@@ -1,6 +1,6 @@
 This repository presents a collection of my academic projects, demonstrating my expertise in various facets of project management, from strategic planning and risk management to lifecycle methodologies and innovation.
 
-------------------------------------------------------------------
+
 **Project Management Plan: The RateMyLandlord Application**
 ------------------------------------------------------------------
 This project showcases a comprehensive Project Management Plan (PMP) for "RateMyLandlord," a web application designed to empower tenants. This work demonstrates my ability to plan and manage a complex software project from a business and technical perspective.

@@ -1,4 +1,3 @@
------------------------------------------------------------------------------
 Analysis of Model Control Techniques on Text Summarization Performance
 -----------------------------------------------------------------------------
 This project involved an analysis of how model controls, specifically temperature and system prompts, affect the performance of text summarization. The study used a variety of content types, including technical documents, news articles, and social media posts, to examine how different settings influence the quality and characteristics of the generated summaries. I gained hands-on experience by conducting a series of experiments on a Hugging Face Space to systematically analyze how these controls influenced the generated output. The findings indicate that various content types demand different settings to produce effective summaries.

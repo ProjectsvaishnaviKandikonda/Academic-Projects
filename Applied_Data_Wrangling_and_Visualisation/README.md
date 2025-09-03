@@ -1,4 +1,5 @@
 **Airbnb’s role in Dublin’s tourism and housing market**
+-----------------------------------------------------------------------------
 
 This project investigates Airbnb’s role in Dublin’s tourism and housing market, using datasets from Inside Airbnb. The analysis explores seasonal demand trends, guest satisfaction, investment opportunities, and host behaviour.
 
