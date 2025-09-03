@@ -1,36 +1,41 @@
-This repository showcases a selection of my projects in User-Centered Design (UXD), demonstrating my expertise in the end-to-end design process, from foundational research to critical analysis of design principles.
-------------------------------------------------------------------
-**Sustainify: Food Waste Management & Zero Hunger App**
-------------------------------------------------------------------
-This project was a collaborative effort to design a mobile application, Sustainify, aimed at combating food waste and hunger. This project demonstrates my ability to apply a user-centered design process to develop a practical, high-fidelity solution.
+-----------------------------------------------------------------------------
+Analysis of Model Control Techniques on Text Summarization Performance
+-----------------------------------------------------------------------------
+Description:
 
-**My Role & Contributions**
+This project involved an analysis of how model controls, specifically temperature and system prompts, affect the performance of text summarization. The study used a variety of content types, including technical documents, news articles, and social media posts, to examine how different settings influence the quality and characteristics of the generated summaries. I gained hands-on experience by conducting a series of experiments on a Hugging Face Space to systematically analyze how these controls influenced the generated output. The findings indicate that various content types demand different settings to produce effective summaries.
 
-I was a key member of the design team, contributing to the full project lifecycle:
+Skills:
 
-- Requirement Gathering: I participated in user interviews and online surveys to understand user needs related to food waste and donation.
+Natural Language Processing (NLP): Focused on the fundamental NLP task of text summarization.
 
-- Low-Fidelity Design: I was involved in creating the initial paper sketches and wireframes that formed the blueprint for the application's interface.
+Model Control & Analysis: Analyzed and documented how low and high-temperature settings and different system prompts impact the output of a language model.
 
-- High-Fidelity Design: I contributed to the final visual design, which included the main dashboard, food request and donation pages, and feedback screens, ensuring a clean and intuitive user experience.
+Data Analysis: Systematically recorded outcomes from experiments to draw conclusions about the relationship between model controls and content types.
 
-**Key Features of Sustainify**
+Academic Research & Writing: Wrote a detailed paper documenting the methodology, results, and discussion of the experimental findings.
 
-- Smart Reminders: Notifications to track food expiry dates.
+Hugging Face: Utilized a Hugging Face Space for conducting experiments and generating summaries.
 
-- Donation Hubs: Easy-to-use features for donating surplus food to nearby charities.
+-----------------------------------------------------------------------------
+Founders' Interactive Guide to Language Models
+-----------------------------------------------------------------------------
 
-- User-Centric Interface: A clean, simple interface with clear calls-to-action to facilitate daily use.
+Description:
 
-------------------------------------------------------------------
-**Critique on Interface Metaphors**
-------------------------------------------------------------------
-This project demonstrates my ability to critically analyze foundational principles of Human-Computer Interaction (HCI). My critique focuses on the strengths and ethical considerations of using interface metaphors in design.
+Developed a web-based educational resource to bridge the knowledge gap for startup founders and entrepreneurs regarding large language models (LLMs). The guide provides a high-level understanding of how LLMs function, their limitations, and the ethical considerations involved in their use. The resource promotes active learning through simulations, interactive questions, and self-guided exploration via use cases.
 
-**Key Insights**
+Skills:
 
-- Bridging Human and Machine: I explored how metaphors simplify user interaction by making digital actions familiar and intuitive.
+Large Language Models (LLMs): Understanding of core concepts such as prompt engineering, temperature and sampling, hallucinations, and ethical considerations.
 
-- Ethical Considerations: The critique highlights the risks of using anthropomorphic elements that can mislead users into perceiving technology as human-like.
+Streamlit: Used to build the interactive, modular web application, which allowed for quick prototyping and user-friendly interaction.
 
-- Areas for Further Discussion: I proposed further research into the limitations of metaphors in representing AI-driven interfaces and the impact of cultural differences on their effectiveness.
+Web Development: Designed and structured a user-friendly site with logically sequenced pages.
+
+Project Management: Managed the project, including defining the target audience, setting learning objectives, and addressing challenges like a time-constrained audience and the risk of oversimplifying complex ideas.
+
+-----------------------------------------------------------------------------
+Project Link:
+-----------------------------------------------------------------------------
+URL: https://large-language-models-guide.streamlit.app
