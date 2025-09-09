@@ -26,8 +26,11 @@ Academic projects - UCD Sep 2024 - Sep 2025
 **2024/25 Autumn - Projects**
 
 **Applied_Data_Wrangling_and_Visualisation**
+
 **Informatics**
+
 **Quantitative Data Analysis**
+
 **Data & Society**
 
 **User Centered Design ( UXD )**
