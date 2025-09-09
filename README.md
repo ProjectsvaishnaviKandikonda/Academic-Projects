@@ -13,6 +13,10 @@ Academic projects - UCD Sep 2024 - Sep 2025
 
 **2024/25 Spring - Projects**
 
+**Interactive Dashboards;Python**
+
+**Language Models and Methods**
+
 **Project Management**
   - Project Management Plan: The RateMyLandlord Application 📄 [RateMyLandlord Application Group PDF Report](Project_Management/Project_Management_Plan-RateMyLandlord.pdf)
   - SDLC Strategy: Hospital Patient Management System (HPMS) 📄 [ SDLC Strategy HPMS PDF Report](Project_Management/SDLC_Approach_for_Effective_HPMS.pdf)
@@ -20,6 +24,11 @@ Academic projects - UCD Sep 2024 - Sep 2025
 
 
 **2024/25 Autumn - Projects**
+
+**Applied_Data_Wrangling_and_Visualisation**
+**Informatics**
+**Quantitative Data Analysis**
+**Data & Society**
 
 **User Centered Design ( UXD )**
   - Sustainify: Food Waste Management & Zero Hunger App 📄 [Sustainify App Group PDF Report](User_Centered_Design/Sustainify.pdf), 📄 [Poster](User_Centered_Design/Poster_Sustainify.pdf)
