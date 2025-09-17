@@ -1,0 +1,2 @@
+Model,Test_Accuracy,Test_Precision,Test_Recall,Test_F1_Score,CV_F1_Mean,CV_F1_Std,Total_Employees_Tested,Actual_Departures,Predicted_Departures
+Gradient Boosting,0.832579185520362,0.0,0.0,0.0,0.0186,0.0228,221,36,1

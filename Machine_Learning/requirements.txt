@@ -1,0 +1,21 @@
+# HR Employee Attrition Prediction - Requirements
+# Generated for IS41070 Machine Learning Project
+
+# Core Data Science Libraries
+pandas>=1.3.0
+numpy>=1.21.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Machine Learning Libraries
+scikit-learn>=1.0.0
+
+# Jupyter Environment
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Optional: For enhanced visualizations
+plotly>=5.0.0
+
+# Python version requirement
+# Python>=3.8.0
