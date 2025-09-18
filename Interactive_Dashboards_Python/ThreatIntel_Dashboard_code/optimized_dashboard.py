@@ -21,7 +21,7 @@ st.title("🛡️ Cyber Threat Intelligence Dashboard")
 
 @st.cache_data
 def load_data():
-    file_path = "../CVE_MITRE_Mappings.csv"
+    file_path = "Interactive_Dashboards_Python/ThreatIntel_Dashboard_code/CVE_MITRE_Mappings.csv"
     chunk_size = 10000  # Adjust as needed based on your file size
 
     # Create an empty list to store all chunks
