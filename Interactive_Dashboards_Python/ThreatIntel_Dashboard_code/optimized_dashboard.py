@@ -19,9 +19,34 @@ import plotly.express as px
 st.set_page_config(page_title="Cyber Threat Intelligence Dashboard", layout="wide")
 st.title("🛡️ Cyber Threat Intelligence Dashboard")
 
+
+import streamlit as st
+import pandas as pd
+import plotly.express as px
+
+st.set_page_config(page_title="Cyber Threat Intelligence Dashboard", layout="wide")
+st.title("🛡️ Cyber Threat Intelligence Dashboard")
+
 @st.cache_data
 def load_data():
-    df = pd.read_csv("../CVE_MITRE_Mappings.csv")
+    file_path = "../CVE_MITRE_Mappings.csv"
+    chunk_size = 10000  # Adjust as needed based on your file size
+
+    # Create an empty list to store all chunks
+    all_chunks = []
+
+    try:
+        # Use a for loop to iterate through the chunks and append them to the list
+        for chunk in pd.read_csv(file_path, chunksize=chunk_size):
+            all_chunks.append(chunk)
+
+        # Concatenate all chunks into a single DataFrame for the dashboard
+        df = pd.concat(all_chunks, ignore_index=True)
+
+    except FileNotFoundError:
+        st.error(f"Error: The file '{file_path}' was not found.")
+        return pd.DataFrame() # Return empty DataFrame on error
+    
     df['published_date'] = pd.to_datetime(df['published_date'], errors='coerce')
     df['year'] = df['published_date'].dt.year
     df['cvss_score'] = pd.to_numeric(df['cvss_score'], errors='coerce')
