@@ -19,14 +19,6 @@ import plotly.express as px
 st.set_page_config(page_title="Cyber Threat Intelligence Dashboard", layout="wide")
 st.title("🛡️ Cyber Threat Intelligence Dashboard")
 
-
-import streamlit as st
-import pandas as pd
-import plotly.express as px
-
-st.set_page_config(page_title="Cyber Threat Intelligence Dashboard", layout="wide")
-st.title("🛡️ Cyber Threat Intelligence Dashboard")
-
 @st.cache_data
 def load_data():
     file_path = "../CVE_MITRE_Mappings.csv"
