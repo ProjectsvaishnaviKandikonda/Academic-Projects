@@ -21,7 +21,7 @@ st.title("🛡️ Cyber Threat Intelligence Dashboard")
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv("/Interactive_Dashboards_Python/ThreatIntel_Dashboard_code/CVE_MITRE_Mappings.csv")
+    df = pd.read_csv("../CVE_MITRE_Mappings.csv")
     df['published_date'] = pd.to_datetime(df['published_date'], errors='coerce')
     df['year'] = df['published_date'].dt.year
     df['cvss_score'] = pd.to_numeric(df['cvss_score'], errors='coerce')
