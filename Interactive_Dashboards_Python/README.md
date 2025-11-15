@@ -30,7 +30,7 @@ The main technologies used are Python and the following libraries:
 - seaborn for statistical data visualization.
 
 -----------------------------------------------------------------------------
-*Threat Intelligence Dashboard*
+*Threat Intelligence Dashboard* - https://threat-intelligence-dashboard-attacks.streamlit.app
 -----------------------------------------------------------------------------
 
 This project, which includes eda_threat_intel.ipynb and optimized_dashboard.py, is a cyber threat intelligence dashboard. It processes data from NVD CVE and MITRE ATT&CK datasets, cleans it, and presents it in an interactive Streamlit application. The dashboard visualizes key threat intelligence metrics, including CVEs, CVSS scores, and mapped MITRE techniques.
